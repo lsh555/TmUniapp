@@ -1,0 +1,48 @@
+
+.comm-img.data-v-878143fc{height: 450rpx;}
+.comm-img image.data-v-878143fc{width: 100%; height: 450rpx;
+border-top-left-radius: 10rpx;
+border-top-right-radius: 10rpx;}
+.comm-card.data-v-878143fc{
+width: calc(50% - 5rpx*2);
+margin: 5rpx;
+background: #FFFFFF;
+border-radius: 10rpx;
+}
+.comm-title.data-v-878143fc{font-size: 28rpx;
+height: 100rpx;
+line-height: 50rpx;
+padding-left: 10rpx;
+overflow: hidden;
+text-overflow: ellipsis;
+display: -webkit-box;
+-webkit-line-clamp: 2;  /* 控制多行的行数 */
+-webkit-box-orient: vertical;
+}
+.comm-left.data-v-878143fc{font-size: 20rpx; text-align: center;
+display: -webkit-box;
+display: -webkit-flex;
+display: flex;
+-webkit-box-align: center;
+-webkit-align-items: center;
+        align-items: center;
+padding-left: 10rpx;
+height: 50rpx;
+}
+.comm-left text.data-v-878143fc{padding: 3rpx 4rpx;
+border-radius: 10rpx;
+}
+.comm-left text.data-v-878143fc:nth-child(1){border: 2rpx solid #1183e6;
+margin-right: 10rpx;
+color: #1183e6;
+}
+.comm-left text.data-v-878143fc:nth-child(2){border: 2rpx solid red; color: red;}
+.comm-right.data-v-878143fc{font-size: 30rpx;
+font-weight: bold;
+color: #f3022f;
+height: 50rpx;
+line-height: 50rpx;
+padding-left: 10rpx;
+}
+.comm-view.data-v-878143fc{display: -webkit-box;display: -webkit-flex;display: flex; -webkit-flex-wrap: wrap; flex-wrap: wrap; padding: 0 5rpx;}
+

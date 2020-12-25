@@ -1,0 +1,13 @@
+/* 没有数据的提示样式 */
+.empty-cart image{width: 200upx; height: 200upx;
+display: block; padding-bottom: 30rpx;}
+.empty-cart{
+width: 280rpx;
+height: 230rpx;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+margin: auto;
+color: rgb(102, 102, 102);
+padding-top: 200rpx;}

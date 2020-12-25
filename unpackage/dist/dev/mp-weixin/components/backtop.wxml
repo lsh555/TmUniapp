@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['backTop']]]]}}" class="back-top data-v-c2ff8eba" bindtap="__e"><image src="../static/top.png" class="data-v-c2ff8eba"></image></view>

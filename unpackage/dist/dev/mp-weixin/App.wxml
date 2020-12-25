@@ -1,0 +1,1 @@
+<block wx:if="{{isShow}}"><view class="backtop"><image src="static/top.png" mode></image></view></block>

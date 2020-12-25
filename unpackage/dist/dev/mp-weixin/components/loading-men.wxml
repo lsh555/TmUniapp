@@ -1,0 +1,1 @@
+<block wx:if="{{loading}}"><view class="loading-men data-v-57387d5a"><block wx:if="{{picture}}"><image src="../static/loading/loadtmall.gif" mode="widthFix" class="data-v-57387d5a"></image></block><text class="data-v-57387d5a">{{tips}}</text></view></block>

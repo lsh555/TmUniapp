@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "详情页",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "top": "/pages/details/components/top",
+    "price": "/pages/details/components/price",
+    "parame": "/pages/details/components/parame",
+    "evaluate": "/pages/details/components/evaluate",
+    "product": "/pages/details/components/product",
+    "shopping": "/pages/details/components/shopping",
+    "addtocart": "/components/addtocart"
+  }
+}

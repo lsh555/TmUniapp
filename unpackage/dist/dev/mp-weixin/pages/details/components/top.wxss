@@ -1,0 +1,46 @@
+
+.navs-nav.data-v-4f72a4fc {
+	font-size: 30rpx;
+	width: 100rpx;
+	text-align: center;
+	color: #464230;
+}
+.navs-image image.data-v-4f72a4fc {
+	width: 20px;
+	height: 20px;
+}
+.navs-image.data-v-4f72a4fc {
+	width: 20px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	padding-left: 20rpx;
+}
+.navs.data-v-4f72a4fc {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-align-self: center;
+	        align-self: center;
+}
+.navactivetext.data-v-4f72a4fc {
+	border-bottom: 5rpx solid #3d3b32;
+}
+.navs-view.data-v-4f72a4fc {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+

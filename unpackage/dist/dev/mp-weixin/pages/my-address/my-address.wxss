@@ -1,0 +1,58 @@
+
+page{background-color: #F2F2F2;}
+.my-address-view{
+font-size: 30rpx;
+background: #FFFFFF; margin: 10rpx;
+padding: 0 10rpx;
+border-radius: 10rpx;
+display: -webkit-box;
+display: -webkit-flex;
+display: flex;
+-webkit-box-align: center;
+-webkit-align-items: center;
+        align-items: center;
+-webkit-box-pack: justify;
+-webkit-justify-content: space-between;
+        justify-content: space-between;
+}
+.my-address-name{
+-webkit-box-flex: 1;
+-webkit-flex: 1;
+        flex: 1;
+height: 130rpx;
+display: -webkit-box;
+display: -webkit-flex;
+display: flex;
+-webkit-box-orient: vertical;
+-webkit-box-direction: normal;
+-webkit-flex-direction: column;
+        flex-direction: column;
+-webkit-box-pack: center;
+-webkit-justify-content: center;
+        justify-content: center;
+}
+.my-address-name view{display: -webkit-box;display: -webkit-flex;display: flex; -webkit-box-align: center; -webkit-align-items: center; align-items: center;}
+.my-address-change{width: 50rpx; height: 50rpx;}
+.my-address-change image{width: 50rpx; height: 50rpx;}
+.my-address-adding{color: #A7A7A7; padding-top: 8rpx;}
+.my-address-adding text:nth-child(1){padding-right: 15rpx;}
+/* 新增收货地址 */
+.button-address{
+font-size: 30rpx;
+display: -webkit-box;
+display: -webkit-flex;
+display: flex; -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+-webkit-box-pack: center;
+-webkit-justify-content: center;
+        justify-content: center;
+height: 100rpx;
+background: #FFFFFF;
+position: fixed;
+bottom: 0;
+left: 0;
+right: 0;
+}
+.button-address image{width: 50rpx; height: 50rpx;
+padding-right: 20rpx;
+}
+

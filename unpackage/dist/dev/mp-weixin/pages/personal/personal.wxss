@@ -1,0 +1,24 @@
+
+page{background: #eeeeee;}
+.choice-tips{
+background: #FFFFFF;
+display: -webkit-box;
+display: -webkit-flex;
+display: flex;
+-webkit-justify-content: space-around;
+        justify-content: space-around;
+color: #6d6d6d;
+font-size: 28rpx;
+position: fixed;
+top: 0;
+left: 0;
+right: 0;
+}
+.choice-tips text{height: 70rpx;
+line-height: 70rpx;
+}
+.activetext{color: #fe0036 !important;
+border-bottom: 4rpx solid #fe0036;
+}
+.choice-content{margin-top: 100rpx;}
+

@@ -1,0 +1,144 @@
+
+.price-view.data-v-a20e5b94 {
+		/* background: #FFFFFF; */
+		background: -webkit-linear-gradient(left, #ff0000, #ff4000, #ff8000);
+		background: linear-gradient(to right, #ff0000, #ff4000, #ff8000);
+		height: 120rpx;
+		font-size: 35rpx;
+		padding-left: 20rpx;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: column;
+		        flex-direction: column;
+		-webkit-box-pack: center;
+		-webkit-justify-content: center;
+		        justify-content: center;
+		color: #FFFFFF;
+}
+.price-list.data-v-a20e5b94 {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-box-align: center;
+		-webkit-align-items: center;
+		        align-items: center;
+		line-height: 50rpx;
+}
+.price-list text.data-v-a20e5b94:nth-child(1) {
+		font-size: 40rpx;
+		padding-right: 10rpx;
+}
+.price-list text.data-v-a20e5b94:nth-child(2) {
+		font-size: 25rpx;
+		/* background: red;
+color: #fe0032;
+height: 30upx;
+line-height: 30upx;
+text-align: center;
+border-radius: 50upx;
+padding: 9upx 23upx; */
+}
+.scribing.data-v-a20e5b94 {
+		text-decoration: line-through;
+		color: #b5b5b5 !important;
+		padding-left: 7rpx;
+}
+.textstyle text.data-v-a20e5b94:nth-child(2) {
+		background: #FFFFFF !important;
+}
+.coupon-text.data-v-a20e5b94 {
+		color: #FFFFFF !important;
+}
+
+	/* 优惠券 */
+.Discount-view.data-v-a20e5b94 {
+		font-size: 25rpx;
+		background: #FFFFFF;
+		height: 100rpx;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-box-align: center;
+		-webkit-align-items: center;
+		        align-items: center;
+		padding: 0 20rpx;
+}
+.Discount-view text.data-v-a20e5b94:nth-child(-n+2) {
+		background: #ffeaef;
+		height: 30rpx;
+		line-height: 30rpx;
+		text-align: center;
+		padding: 10rpx;
+		border-radius: 10rpx;
+		margin-right: 10rpx;
+}
+.Discount-view text.data-v-a20e5b94:nth-child(3) {
+		-webkit-box-flex: 1;
+		-webkit-flex: 1;
+		        flex: 1;
+		text-align: right;
+}
+
+	/* 标题 */
+.price-Title.data-v-a20e5b94 {
+		font-size: 35rpx;
+		height: 100rpx;
+		background: #FFFFFF;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-box-align: center;
+		-webkit-align-items: center;
+		        align-items: center;
+		padding: 0 20rpx;
+}
+.titleing.data-v-a20e5b94 {
+		overflow: hidden;
+		text-overflow: ellipsis;
+		display: -webkit-box;
+		-webkit-line-clamp: 2; /* 控制多行的行数 */
+		-webkit-box-orient: vertical;
+}
+.price-Title image.data-v-a20e5b94 {
+		width: 50rpx;
+		height: 50rpx;
+		padding-bottom: 5rpx;
+}
+.price-Image.data-v-a20e5b94 {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: column;
+		        flex-direction: column;
+		-webkit-box-pack: center;
+		-webkit-justify-content: center;
+		        justify-content: center;
+		-webkit-box-align: end;
+		-webkit-align-items: flex-end;
+		        align-items: flex-end;
+		font-size: 25rpx;
+		width: 150rpx;
+		/* background: #1183E6; */
+}
+
+	/* 月销 */
+.Monthly.data-v-a20e5b94 {
+		background: #FFFFFF;
+		font-size: 25rpx;
+		color: #999999;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-box-pack: end;
+		-webkit-justify-content: flex-end;
+		        justify-content: flex-end;
+		height: 70rpx;
+		line-height: 70rpx;
+		padding-right: 20rpx;
+}
+

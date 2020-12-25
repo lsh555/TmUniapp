@@ -1,0 +1,212 @@
+
+page {
+	background: #f2f2f2;
+}
+.shopp-view {
+	margin: 0 10rpx;
+}
+.manage-tli {
+	font-size: 28rpx;
+	color: #6b6b6b;
+	height: 80rpx;
+	line-height: 80rpx;
+	text-align: right;
+}
+/* 商品 */
+.shopp-goods {
+	font-size: 28rpx;
+	/* height: 340upx; */
+	background: #ffffff;
+	border-radius: 10rpx;
+	padding: 20rpx 10rpx;
+	margin-bottom: 15rpx;
+}
+.shopp-goods-Coupon {
+	height: 70rpx;
+	/* background: #4CD964; */
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: end;
+	-webkit-justify-content: flex-end;
+	        justify-content: flex-end;
+}
+.shopp-chick {
+	width: 45rpx;
+	height: 200rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.shopp-chick image {
+	width: 45rpx;
+	height: 45rpx;
+}
+.shopp-chick-img {
+	width: 200rpx;
+	height: 200rpx;
+	padding: 0 15rpx;
+}
+.shopp-chick-img image {
+	width: 100%;
+	height: 100%;
+	border-radius: 8rpx;
+}
+.shopp-chick-gight view:nth-child(1) {
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 2;
+	overflow: hidden;
+}
+.shopp-chick-right image {
+	width: 20rpx;
+	height: 20rpx;
+	padding-left: 8rpx;
+}
+.shopp-chick-sku {
+	font-size: 25rpx;
+	color: #999999;
+	height: 50rpx;
+	background: #f9f9f9;
+	display: -webkit-inline-box;
+	display: -webkit-inline-flex;
+	display: inline-flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	margin: 17rpx 0;
+	padding: 0 20rpx;
+	border-radius: 5rpx;
+}
+.shopp-price {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	height: 50rpx;
+	/* background: #9ACD32; */
+}
+.shopp-price view:nth-child(1) {
+	color: #f75807;
+	font-weight: bold;
+}
+.shopp-price-nums {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	border: 1px solid #f9f9f9;
+	width: 200rpx;
+	border-radius: 10rpx;
+}
+.shopp-price-nums view {
+	font-weight: bold;
+	width: 90rpx;
+	height: 50rpx;
+	line-height: 50rpx;
+	text-align: center;
+}
+.shopp-price-nums view:nth-child(2) {
+	border-left: 1px solid #f9f9f9;
+	border-right: 1px solid #f9f9f9;
+	padding: 0 10rpx;
+}
+.shopp-goods-view {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.shopp-chick-gight {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+}
+.Special-rate {
+	color: #ff5000;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	height: 50rpx;
+	font-weight: bold;
+}
+/* 结算 */
+.settlement-view {
+	font-size: 28rpx;
+	background: #ffffff;
+	height: 90rpx;
+	border-top: 1px solid #f2f2f2;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.settlement-img {
+	width: 45rpx;
+	height: 45rpx;
+}
+.settlement-img image {
+	width: 45rpx;
+	height: 45rpx;
+	padding-left: 20rpx;
+}
+.total-view {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.total-view text:nth-child(1) {
+	font-size: 30rpx;
+}
+.total-view text:nth-child(2) {
+	font-weight: bold;
+	color: #ff4401;
+	padding-left: 10rpx;
+}
+.settlement-money {
+	background: #fe0036;
+	height: 90rpx;
+	line-height: 90rpx;
+	width: 220rpx;
+	text-align: center;
+	font-size: 30rpx;
+	color: #ffffff;
+}
+.settlement-tips {
+	text-align: center;
+}
+

@@ -1,0 +1,38 @@
+
+.new-address-view.data-v-7e34f3c4{padding: 10rpx 30rpx;}
+.new-address.data-v-7e34f3c4{
+height: 100rpx;
+display: -webkit-box;
+display: -webkit-flex;
+display: flex; 
+-webkit-box-align: center; 
+-webkit-align-items: center; 
+        align-items: center;
+-webkit-box-pack: justify;
+-webkit-justify-content: space-between;
+        justify-content: space-between;
+font-size: 28rpx;
+border-bottom: 1rpx solid #F0F0F0;
+}
+.new-address view.data-v-7e34f3c4:nth-child(1){width: 150rpx;}
+.new-address view.data-v-7e34f3c4:nth-child(2){-webkit-box-flex: 1;-webkit-flex: 1;flex: 1;}
+.new-address view.data-v-7e34f3c4:nth-child(3){color: #4CD964;}
+/* 保存 */
+.conServe.data-v-7e34f3c4{height: 80rpx;
+font-size: 30rpx;
+border-radius: 10rpx;
+font-weight: bold;
+display: -webkit-box;
+display: -webkit-flex;
+display: flex;
+-webkit-box-align: center;
+-webkit-align-items: center;
+        align-items: center;
+-webkit-box-pack: center;
+-webkit-justify-content: center;
+        justify-content: center;
+margin-top: 30rpx;
+}
+.adcolor.data-v-7e34f3c4{background:-webkit-linear-gradient(left,#ffd300,#e6be00);background:linear-gradient(to right,#ffd300,#e6be00);}
+.decolor.data-v-7e34f3c4{background-color: red; color: #FFFFFF;}
+

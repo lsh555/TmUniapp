@@ -1,0 +1,1 @@
+<block wx:if="{{emcart}}"><view class="empty-cart"><image src="http://h.thexxdd.cn/video/tianmao/noorder.png" mode="aspectFit"></image><text>没有相关订单数据</text></view></block>

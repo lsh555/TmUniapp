@@ -1,0 +1,46 @@
+
+.Purchase-view.data-v-6f530274{background: #FFFFFF;
+margin: 0 10rpx;
+border-radius: 10rpx;}
+.pur-top.data-v-6f530274{display: -webkit-box;display: -webkit-flex;display: flex; -webkit-box-align: center; -webkit-align-items: center; align-items: center; height: 50rpx;
+padding-left: 9rpx;
+}
+.pur-top text.data-v-6f530274:nth-child(1){font-size: 30rpx; font-weight: bold;}
+.pur-top text.data-v-6f530274:nth-child(2){font-size: 24rpx; color: red; padding-left: 10rpx;}
+/* 图片 */
+.pur-img.data-v-6f530274{display: -webkit-box;display: -webkit-flex;display: flex; -webkit-flex-wrap: wrap; flex-wrap: wrap;
+}
+.pur-img view.data-v-6f530274{width: 50%; height: 150rpx;
+display: -webkit-box;
+display: -webkit-flex;
+display: flex;
+-webkit-box-align: center;
+-webkit-align-items: center;
+        align-items: center;
+-webkit-box-pack: center;
+-webkit-justify-content: center;
+        justify-content: center;}
+.pur-img image.data-v-6f530274{width: 120rpx; height: 120rpx !important;}
+.pur-img view.data-v-6f530274:nth-child(n+3){padding-top: 50rpx;}
+.pur-right-img.data-v-6f530274{display: -webkit-box;display: -webkit-flex;display: flex; -webkit-box-align: center; -webkit-align-items: center; align-items: center;}
+.pur-right-img image.data-v-6f530274{width: 120rpx; height: 120rpx;}
+.pur-right-img view.data-v-6f530274{width: 50%; height: 150rpx;
+display: -webkit-box;
+display: -webkit-flex;
+display: flex;
+-webkit-box-align: center;
+-webkit-align-items: center;
+        align-items: center;
+-webkit-box-pack: center;
+-webkit-justify-content: center;
+        justify-content: center;
+}
+.pur-right.data-v-6f530274{display: -webkit-box;display: -webkit-flex;display: flex; -webkit-flex-wrap: wrap; flex-wrap: wrap;}
+.pur-right view.data-v-6f530274{width: 100%;}
+.pur-flex.data-v-6f530274{display: -webkit-box;display: -webkit-flex;display: flex; -webkit-box-align: center; -webkit-align-items: center; align-items: center;}
+.widthing.data-v-6f530274{width: 50%; box-sizing: border-box;}
+.pur-left.data-v-6f530274{border-right: 1rpx solid #F1F1F1;}
+.pur-right-top.data-v-6f530274{border-bottom: 1rpx solid #F1F1F1;}
+.two text.data-v-6f530274:nth-child(2){color: #ff7594 !important;}
+.three text.data-v-6f530274:nth-child(2){color: #96b06f !important;}
+

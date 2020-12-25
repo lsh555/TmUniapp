@@ -1,0 +1,41 @@
+
+.comments-view.data-v-0f4dedf4{margin: 20rpx;}
+/* 分类 */
+.evaluate-class.data-v-0f4dedf4{font-size: 25rpx; display: -webkit-box; display: -webkit-flex; display: flex;
+-webkit-flex-wrap: wrap;
+        flex-wrap: wrap;
+padding-bottom: 50rpx;
+border-bottom: 1px solid #eeeeee;
+}
+.evaluate-class text.data-v-0f4dedf4{background: #feecea;
+border-radius: 50rpx;
+padding: 15rpx;
+margin: 0rpx 14rpx 14rpx 0;
+}
+/* 选中*/
+.actives.data-v-0f4dedf4{
+background: #FF0036 !important;
+color: #FFF !important;}
+/* user评价 */
+.comments-user.data-v-0f4dedf4{font-size: 30rpx;
+padding-bottom: 15rpx;
+border-bottom: 1px solid #eeeeee;
+margin: 25rpx 0;
+}
+.comments-flex.data-v-0f4dedf4{display: -webkit-box;display: -webkit-flex;display: flex; -webkit-box-align: center; -webkit-align-items: center; align-items: center;}
+.comments-top image.data-v-0f4dedf4{width: 60rpx; height: 60rpx; border-radius: 50%;
+padding-right: 10rpx;
+}
+.comments-zh.data-v-0f4dedf4{height: 80rpx; font-size: 25rpx; color: #a7a7a7;}
+.comments-zh text.data-v-0f4dedf4{padding-right: 8rpx;}
+.comments-mes.data-v-0f4dedf4{line-height: 1.5;}
+.comments-top.data-v-0f4dedf4{height: 60rpx;}
+.comments-img.data-v-0f4dedf4{display: -webkit-box;display: -webkit-flex;display: flex; -webkit-flex-wrap: wrap; flex-wrap: wrap;}
+.user-images.data-v-0f4dedf4{width: calc(33.33% - 10rpx*2);
+height: 200rpx;
+padding: 10rpx;
+}
+.user-images image.data-v-0f4dedf4{width: 100%; height: 200rpx;
+border-radius: 2rpx;
+}
+

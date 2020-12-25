@@ -1,0 +1,74 @@
+/* 订单商品 */
+.payment-view{margin: 15upx;}	
+/* 下单商品 */
+.payment-commodity{
+background-color: #FFFFFF; border-radius: 15upx;
+font-size: 28upx;
+padding: 0 20rpx;
+margin: 15upx 0;
+}
+.payment-order{
+display: flex;
+justify-content: space-between;
+height: 200upx;
+margin-bottom: 8rpx;
+}
+.payment-order text{display: block;}
+.payment-order-img{width: 200upx; height: 200upx;
+border-radius: 8upx;
+padding-right: 10upx;
+}
+.payment-order-img image{width: 200upx; height: 200upx;
+border-radius: 8upx;
+}
+.payment-title{flex: 1;}
+.payment-title text:nth-child(1){
+overflow: hidden;
+text-overflow: ellipsis;
+display: -webkit-box;
+-webkit-line-clamp: 2;
+-webkit-box-orient: vertical;
+}
+.payment-title text:nth-child(2){
+background-color: rgb(250, 250, 250);
+padding: 5upx;
+border-radius: 7upx;
+display: inline-block;
+}
+.payment-price{text-align: right;}
+.payment-flex{
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+width: 150rpx;
+}
+.text-you{color: rgb(156, 156, 156);
+margin-top: 8upx;
+}
+/* 提示 */
+.order-tips{
+display: flex;
+justify-content: flex-end;
+align-items: center;
+height: 70rpx;
+color: rgb(255, 80, 0);}
+/* 价格 */
+.presonal-Price{
+height: 70rpx;
+display: flex;
+justify-content: flex-end;
+align-items: center;
+}
+/* 付款 */
+.presonal-payment{
+height: 90rpx;
+display: flex;
+justify-content: flex-end;
+align-items: center;
+border-top: 1rpx solid rgb(248, 248, 248);}
+.presonal-payment text{
+color: rgb(255, 80, 0);
+border-radius: 20rpx;
+border: 1rpx solid rgb(255, 80, 0);
+padding: 8rpx 40rpx;
+}

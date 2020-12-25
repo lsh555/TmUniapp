@@ -1,0 +1,23 @@
+
+.swiper-top.data-v-00642d2b{height: 250rpx; margin: 20rpx 10rpx;
+border-radius: 10rpx;
+position: relative;
+}
+swiper.data-v-00642d2b{height: 250rpx !important;
+background: yellow; border-radius: 10rpx;
+overflow: hidden;}
+.swiper-item.data-v-00642d2b{height: 250rpx !important;
+overflow: hidden;}
+.swiper-item image.data-v-00642d2b{width: 100%; height: 250rpx !important; border-radius: 10rpx;
+}
+/* 指示点 */
+.instruct-view.data-v-00642d2b{display: -webkit-box;display: -webkit-flex;display: flex; -webkit-box-pack: center; -webkit-justify-content: center; justify-content: center;
+position: absolute;
+bottom: 10rpx;
+left: 0;
+width: 100%;}
+.instruct.data-v-00642d2b{background: #4e90a6; height: 10rpx; width: 30rpx; border-radius: 50rpx;
+margin: 0 10rpx;
+}
+.active.data-v-00642d2b{background: #FFFFFF !important;}
+

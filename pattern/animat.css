@@ -1,0 +1,38 @@
+/* 透明背景动画 */
+.anim {
+	animation: implement;
+	/*动画名称*/
+	animation-duration: 0.4s;
+	/*动画持续时间*/
+}
+@keyframes implement {
+	0% {
+		opacity: 0;
+	}
+
+	50% {
+		opacity: 0.5;
+	}
+
+	100% {
+		opacity: 1;
+	}
+}
+
+
+/* 底部淡入 */
+.coup-anim {
+	animation: fadeIn 0.6s .2s ease both;
+}
+
+@keyframes fadeIn {
+	0% {
+		opacity: 0;
+		transform: translateY(400upx)
+	}
+
+	100% {
+		opacity: 1;
+		transform: translateY(0)
+	}
+}

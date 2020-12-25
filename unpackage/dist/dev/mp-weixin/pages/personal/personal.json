@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "订单中心",
+  "usingComponents": {
+    "tobepaid": "/pages/personal/component/tobepaid",
+    "deliverde": "/pages/personal/component/delivered",
+    "received": "/pages/personal/component/received",
+    "evaluated": "/pages/personal/component/evaluated"
+  }
+}

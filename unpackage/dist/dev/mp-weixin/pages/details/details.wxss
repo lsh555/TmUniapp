@@ -1,0 +1,75 @@
+
+.detail.data-v-39cbb4e8 {
+	background: #f2f2f2;
+}
+.header-fixed.data-v-39cbb4e8 {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 2;
+}
+.backyes.data-v-39cbb4e8 {
+	background: #f8f8f8;
+}
+.backno.data-v-39cbb4e8 {
+	background: none;
+}
+.status_bar.data-v-39cbb4e8 {
+	width: 100%;
+}
+.navs-image image.data-v-39cbb4e8 {
+	width: 28px;
+	height: 28px;
+	border-radius: 50%;
+}
+.navs-image.data-v-39cbb4e8 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	padding-left: 20rpx;
+}
+
+/* banner部分 */
+.imageurl.data-v-39cbb4e8 {
+	width: 100%;
+	height: 700rpx !important;
+}
+swiper.data-v-39cbb4e8 {
+	height: 700rpx !important;
+}
+.swiper-video.data-v-39cbb4e8 {
+	height: 700rpx;
+	background: #4CD964;
+}
+.swiper-video video.data-v-39cbb4e8 {
+	width: 100%;
+	height: 700rpx;
+}
+
+/* 自定义按钮 */
+.video-img image.data-v-39cbb4e8 {
+	width: 90rpx;
+	height: 90rpx;
+	z-index: 999;
+	border: 2px solid #FFFFFF;
+	border-radius: 50%;
+}
+.video-img.data-v-39cbb4e8 {
+	width: 90rpx;
+	height: 90rpx;
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	top: 50%;
+	-webkit-transform: translateX(-50%) translateY(-50%);
+	        transform: translateX(-50%) translateY(-50%);
+}
+.video-btn.data-v-39cbb4e8 {
+	height: 700rpx;
+	position: relative;
+}
+

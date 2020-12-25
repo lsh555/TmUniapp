@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "首页",
+  "navigationBarBackgroundColor": "#fe0024",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "search": "/pages/index/components/search",
+    "swipers": "/pages/index/components/swiper",
+    "purchase": "/pages/index/components/purchase",
+    "list": "/pages/index/components/list",
+    "commodity": "/components/commodity"
+  }
+}
